@@ -1,5 +1,5 @@
 Pronouns: She/Her.
-- 👋 Hi, I’m Eden and I'm a junior Front-end developer.
+- 👋 Hi, I’m Eden and I'm a Junior Front-end engineer/Web developer.
 - 🌱 Technologies: HTML, CSS, Javascript, Reactjs, Vue.js.  
 - 📫 You can reach me on Maryeden200@gmail.com.
 
