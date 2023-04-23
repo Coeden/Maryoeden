@@ -1,7 +1,6 @@
 Pronouns: She/Her.
-- 👋 Hi, I’m Eden and I'm a junior Software developer.
-- 🌱 I’m currently learning the following languages: HTML, CSS, Javascript, Reactjs, Vue.js.  
-- 💞️ I hope to become a Fullstack developer soon therefore, I’m looking to collaborate on open source projects.
+- 👋 Hi, I’m Eden and I'm a junior Front-end developer.
+- 🌱 Technologies: HTML, CSS, Javascript, Reactjs, Vue.js.  
 - 📫 You can reach me on Maryeden200@gmail.com.
 
 <!---
